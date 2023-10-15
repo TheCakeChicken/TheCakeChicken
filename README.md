@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+welcome to my high quality github profile
+
 - 🔭 I’m currently working on a series of Roblox projects, including off-site Roblox integrations.
 - 🌱 I’m currently learning C++ and C.
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
