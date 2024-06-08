@@ -18,3 +18,6 @@ welcome to my high quality github profile
 - 🔭 I’m currently working on a series of Roblox projects, including off-site Roblox integrations.
 - 🌱 I’m currently learning C++ and C.
 - 😄 Pronouns: she/they
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://raw.githubusercontent.com/TheCakeChicken/TheCakeCHicken/master/greenmountains.jpg');]{x0000}$}
