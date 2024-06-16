@@ -1,20 +1,8 @@
-<!--
-**TheCakeChicken/TheCakeChicken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 welcome to my high quality github profile
 
-- 🔭 I’m currently working on a series of Roblox projects, including off-site Roblox integrations.
-- 🌱 I’m currently learning C++ and C.
-- 😄 Pronouns: she/they
+hi! i'm alyx, a software engineering student
+
+i'm currently working on:
+- [plasma](https://www.roblox.com/groups/4192306/Plasma-Inc#!/about)
+- [bloxstreet](https://www.roblox.com/groups/2700627/BloxStreet-Corporation#!/about)
+- [whitehill](https://whitehill.group)
